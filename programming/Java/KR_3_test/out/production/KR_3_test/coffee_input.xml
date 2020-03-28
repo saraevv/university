@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drinks>
+    <coffee name="Latte">
+        <caffeineCount>5</caffeineCount>
+        <price>4</price>
+        <type>GRAIN</type>
+    </coffee>
+    <coffee name="Cappuccino">
+        <caffeineCount>3</caffeineCount>
+        <price>2</price>
+        <type>MILLED</type>
+    </coffee>
+    <coffee name="Espresso">
+        <caffeineCount>4</caffeineCount>
+        <price>2</price>
+        <type>GRAIN</type>
+    </coffee>
+    <coffee name="Americano">
+        <caffeineCount>1</caffeineCount>
+        <price>2</price>
+        <type>MILLED</type>
+    </coffee>
+    <coffee name="Glace">
+        <caffeineCount>3</caffeineCount>
+        <price>6</price>
+        <type>MILLED</type>
+    </coffee>
+
+</drinks>

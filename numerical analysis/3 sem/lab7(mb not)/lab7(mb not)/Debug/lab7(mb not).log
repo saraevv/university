@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vladislav\Desktop\programs\C++\vma\lab7(mb not)\lab7(mb not)\main.cpp(362,35): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+  lab7(mb not).vcxproj -> C:\Users\vladislav\Desktop\programs\C++\vma\lab7(mb not)\Debug\lab7(mb not).exe

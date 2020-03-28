@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\vladislav\Desktop\programs\C++\vma\lab3\lab3\main.cpp(116,12): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladislav\Desktop\programs\C++\vma\lab3\lab3\main.cpp(117,14): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladislav\Desktop\programs\C++\vma\lab3\lab3\main.cpp(122,15): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladislav\Desktop\programs\C++\vma\lab3\lab3\main.cpp(124,25): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladislav\Desktop\programs\C++\vma\lab3\lab3\main.cpp(126,21): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladislav\Desktop\programs\C++\vma\lab3\lab3\main.cpp(132,12): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+  lab3.vcxproj -> C:\Users\vladislav\Desktop\programs\C++\vma\lab3\Debug\lab3.exe

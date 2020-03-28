@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workers>
+    <security name="Alex" organization="Sosedi">
+        <coefficient>1.1</coefficient>
+        <area>20</area>
+    </security>
+    <security name="Sergey" organization="Tropinka">
+        <coefficient>1.3</coefficient>
+        <area>30</area>
+    </security>
+    <security name="Vladislav" organization="BSU">
+        <coefficient>2.1</coefficient>
+        <area>100</area>
+    </security>
+    <security name="Mihail" organization="Sosedi">
+        <coefficient>1.2</coefficient>
+        <area>25</area>
+    </security>
+</workers>

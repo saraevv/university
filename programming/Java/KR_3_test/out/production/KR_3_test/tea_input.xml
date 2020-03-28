@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drinks>
+    <tea name="Greenfield">
+        <caffeineCount>5</caffeineCount>
+        <price>3</price>
+        <type>BLACK</type>
+    </tea>
+    <tea name="Lipton">
+        <caffeineCount>4</caffeineCount>
+        <price>2</price>
+        <type>GREEN</type>
+    </tea>
+    <tea name="Tess">
+        <caffeineCount>4</caffeineCount>
+        <price>2</price>
+        <type>BLACK</type>
+    </tea>
+    <tea name="Ahmad">
+        <caffeineCount>6</caffeineCount>
+        <price>5</price>
+        <type>BLACK</type>
+    </tea>
+</drinks>

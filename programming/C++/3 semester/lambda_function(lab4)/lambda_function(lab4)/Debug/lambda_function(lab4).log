@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(23,1): error C2665:  std::to_string: ни одна из 9 перегрузок не может преобразовать все типы аргументов
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(555,26): message :  может быть "std::string std::to_string(long double)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(551,26): message :  или       "std::string std::to_string(double)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(547,26): message :  или       "std::string std::to_string(float)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(543,26): message :  или       "std::string std::to_string(unsigned __int64)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(539,26): message :  или       "std::string std::to_string(__int64)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(535,26): message :  или       "std::string std::to_string(unsigned long)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(531,26): message :  или       "std::string std::to_string(long)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(527,26): message :  или       "std::string std::to_string(unsigned int)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\string(523,26): message :  или       "std::string std::to_string(int)"
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(23,1): message :  при попытке сопоставить список аргументов "(T)"
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(23,1): message :         with
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(23,1): message :         [
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(23,1): message :             T=const char *
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(23,1): message :         ]
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string ToString<const char*>(char,T)"
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         with
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         [
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :             T=const char *
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         ]
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string ToString<char,const char*>(char,T,const char *)"
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         with
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         [
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :             T=char
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         ]
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string ToString<float,char,const char*>(char,T,char,const char *)"
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         with
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         [
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :             T=float
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         ]
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string ToString<double,float,char,const char*>(char,T,float,char,const char *)"
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         with
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         [
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :             T=double
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(28): message :         ]
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(96): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::string ToString<int,double,float,char,const char*>(char,T,double,float,char,const char *)"
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(96): message :         with
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(96): message :         [
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(96): message :             T=int
+C:\Users\vladislav\Desktop\C++\prog\vs19\lambda_function(lab4)\lambda_function(lab4)\main.cpp(96): message :         ]

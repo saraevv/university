@@ -1,0 +1,6 @@
+﻿  KR.cpp
+c:\users\v\desktop\c++\2 sem\kr\kr\kr.cpp(74): error C2059: синтаксическая ошибка: ]
+c:\users\v\desktop\c++\2 sem\kr\kr\kr.cpp(77): error C2059: синтаксическая ошибка: )
+c:\users\v\desktop\c++\2 sem\kr\kr\kr.cpp(78): error C2059: синтаксическая ошибка: }
+c:\users\v\desktop\c++\2 sem\kr\kr\kr.cpp(78): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+c:\users\v\desktop\c++\2 sem\kr\kr\kr.cpp(41): fatal error C1075: "{": не найдена несоответствующая лексема

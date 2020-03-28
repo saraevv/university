@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KR2_point.circle", "KR2_point.circle\KR2_point.circle.vcxproj", "{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Debug|x64.ActiveCfg = Debug|x64
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Debug|x64.Build.0 = Debug|x64
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Debug|x86.Build.0 = Debug|Win32
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Release|x64.ActiveCfg = Release|x64
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Release|x64.Build.0 = Release|x64
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Release|x86.ActiveCfg = Release|Win32
+		{0B958D9F-2DE5-41B3-AE2D-95672AAD5BF5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A734C71-F572-4023-9BE3-D72BB7CA5D73}
+	EndGlobalSection
+EndGlobal

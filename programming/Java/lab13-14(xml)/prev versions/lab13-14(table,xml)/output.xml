@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+	<students>
+		<student surname="Meleh" number="7624699" course="2" group="3" />
+		<student surname="Titov" number="3487624" course="2" group="3" />
+		<student surname="Saraev" number="2134687" course="2" group="3" />
+		<student surname="Chechetkin" number="2394509" course="2" group="3" />
+		<student surname="Kazakov" number="6388653" course="4" group="3" />
+		<student surname="Drozdovsky" number="8712573" course="1" group="4" />
+	</students>
+</root>

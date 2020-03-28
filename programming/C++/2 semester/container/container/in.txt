@@ -1,0 +1,1 @@
+The C++ standard provides some standard algorithms collected in the <algorithm> standard header. A handful of algorithms are also in the numeric header. All algorithms are in the std namespace.

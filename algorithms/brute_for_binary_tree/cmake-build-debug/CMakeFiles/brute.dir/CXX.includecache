@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vladislav/Desktop/programs/C++/algorithms/brute/main.cpp
+fstream
+-
+stack
+-
+vector
+-
+algorithm
+-
+numeric
+-
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workers>
+    <seller name="Alex" organization="Sosedi">
+        <coefficient>1.1</coefficient>
+        <proceeds>100</proceeds>
+    </seller>
+    <seller name="Sergey" organization="Tropinka">
+        <coefficient>0.9</coefficient>
+        <proceeds>300</proceeds>
+    </seller>
+    <seller name="Vladislav" organization="Univermag Krasnodar">
+        <coefficient>1.5</coefficient>
+        <proceeds>250</proceeds>
+    </seller>
+    <seller name="Swat" organization="MacDonalds">
+        <coefficient>1.3</coefficient>
+        <proceeds>145</proceeds>
+    </seller>
+    <seller name="Maxim" organization="Epam">
+        <coefficient>1.0</coefficient>
+        <proceeds>234</proceeds>
+    </seller>
+    <seller name="Alexander" organization="Yandex">
+        <coefficient>1.35</coefficient>
+        <proceeds>200</proceeds>
+    </seller>
+</workers>

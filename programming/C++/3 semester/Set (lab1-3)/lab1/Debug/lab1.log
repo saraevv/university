@@ -1,0 +1,21 @@
+﻿  Set.cpp
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(27,30): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(28,30): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(33,61): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(34,27): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.cpp(123,33): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.cpp(128,34): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.cpp(152,33): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+  View.cpp
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.cpp(173,56): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(27,30): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(28,30): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(33,61): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+  window.cpp
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(34,27): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(27,30): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(28,30): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(33,61): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+  Создание кода...
+C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\lab1\Set.h(34,27): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+  lab1.vcxproj -> C:\Users\vladislav\Desktop\for_git\3 semester\C++\Set (lab1-3)\Debug\lab1.exe

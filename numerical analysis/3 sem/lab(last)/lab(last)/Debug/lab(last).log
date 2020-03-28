@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\vladislav\Desktop\programs\C++\vma\lab(last)\lab(last)\main.cpp(65,20): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladislav\Desktop\programs\C++\vma\lab(last)\lab(last)\main.cpp(164,8): warning C4101:  x1: неиспользованная локальная переменная
+C:\Users\vladislav\Desktop\programs\C++\vma\lab(last)\lab(last)\main.cpp(270,18): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+  lab(last).vcxproj -> C:\Users\vladislav\Desktop\programs\C++\vma\lab(last)\Debug\lab(last).exe

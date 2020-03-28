@@ -1,0 +1,9 @@
+﻿  Test.cpp
+c:\users\v\desktop\c++\2 sem\test\test\test.cpp(23): error C2440: =: невозможно преобразовать "char [17]" в "LPCWSTR"
+  c:\users\v\desktop\c++\2 sem\test\test\test.cpp(23): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\v\desktop\c++\2 sem\test\test\test.cpp(28): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [37]" в "LPCWSTR"
+  c:\users\v\desktop\c++\2 sem\test\test\test.cpp(28): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\v\desktop\c++\2 sem\test\test\test.cpp(33): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "char [17]" в "LPCWSTR"
+  c:\users\v\desktop\c++\2 sem\test\test\test.cpp(42): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\v\desktop\c++\2 sem\test\test\test.cpp(46): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [33]" в "LPCWSTR"
+  c:\users\v\desktop\c++\2 sem\test\test\test.cpp(46): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

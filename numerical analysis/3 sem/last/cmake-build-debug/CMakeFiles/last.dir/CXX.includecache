@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vladislav/Desktop/programs/C++/vma/last/main.cpp
+fstream
+-
+iomanip
+-
+random
+-
+fcntl.h
+-
+io.h
+-
+limits
+-
+set
+-
+algorithm
+-
+

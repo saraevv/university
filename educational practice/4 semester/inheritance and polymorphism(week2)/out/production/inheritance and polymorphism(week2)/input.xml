@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plans>
+    <plan type="UnlimitedMobile">
+        <name>Unlimited</name>
+        <price>30</price>
+        <users>20</users>
+        <isshared>true</isshared>
+    </plan>
+    <plan type="MobileCalls">
+        <name>Calls</name>
+        <price>10</price>
+        <users>100</users>
+        <callsprice>0.1</callsprice>
+        <smsprice>0.2</smsprice>
+        <internetprice>0.3</internetprice>
+        <callscount>500</callscount>
+        <favcount>5</favcount>
+        <iscallsunlimited>false</iscallsunlimited>
+    </plan>
+    <plan type="MobileCallsSMS">
+        <name>CallsSMS</name>
+        <price>12</price>
+        <users>75</users>
+        <callsprice>0.1</callsprice>
+        <smsprice>0</smsprice>
+        <internetprice>0.3</internetprice>
+        <callscount>450</callscount>
+        <favcount>4</favcount>
+        <iscallsunlimited>false</iscallsunlimited>
+        <smscount>0</smscount>
+        <issmsunlimited>true</issmsunlimited>
+    </plan>
+    <plan type="MobileEverything">
+        <name>Everything</name>
+        <price>20</price>
+        <users>150</users>
+        <callsprice>0.1</callsprice>
+        <smsprice>0.1</smsprice>
+        <internetprice>0</internetprice>
+        <callscount>450</callscount>
+        <favcount>4</favcount>
+        <iscallsunlimited>false</iscallsunlimited>
+        <smscount>1000</smscount>
+        <issmsunlimited>false</issmsunlimited>
+        <internetcount>1000</internetcount>
+        <isinternetunlimited>false</isinternetunlimited>
+    </plan>
+    <plan type="Computer">
+        <name>Computer</name>
+        <price>30</price>
+        <users>50</users>
+        <internetspeed>25</internetspeed>
+    </plan>
+</plans>

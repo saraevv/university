@@ -1,0 +1,4 @@
+﻿  remember.cpp
+c:\users\v\desktop\c++\2 sem\remember\remember\remember.cpp(50): error C2280: "KDynArrTwo &KDynArrTwo::operator =(const KDynArrTwo &)": предпринята попытка ссылки на удаленную функцию
+  c:\users\v\desktop\c++\2 sem\remember\remember\kdynarr.h(84): note: в этом месте создано компилятором: "KDynArrTwo::operator ="
+  c:\users\v\desktop\c++\2 sem\remember\remember\kdynarr.h(84): note: "KDynArrTwo &KDynArrTwo::operator =(const KDynArrTwo &)": функция неявно удалена, так как в "KDynArrTwo" содержится определяемый пользователем конструктор перемещения

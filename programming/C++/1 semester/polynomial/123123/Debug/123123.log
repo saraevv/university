@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (123123.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  123123.cpp
+  123123.vcxproj -> C:\Users\v\Desktop\C++\polynomial\Debug\Polynomial.exe

@@ -1,0 +1,4 @@
+apple 400 foliar 300
+pear 200 foliar 150
+cedar 100 coniferous 54
+apple 200 foliar 45

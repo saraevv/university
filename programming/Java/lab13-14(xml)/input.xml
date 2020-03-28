@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+	<students>
+		<student surname="Saraev">
+			<number>56729876</number>
+			<course>2</course>
+			<group>3</group>
+		</student>
+		<student surname="Titov">
+			<number>45876529</number>
+			<course>2</course>
+			<group>3</group>
+		</student>
+		<student surname="Meleh">
+			<number>59256783</number>
+			<course>2</course>
+			<group>3</group>
+		</student>
+		<student surname="Artsushkevich">
+			<number>46592045</number>
+			<course>2</course>
+			<group>3</group>
+		</student>
+		<student surname="Chechetkin">
+			<number>46592547</number>
+			<course>2</course>
+			<group>3</group>
+		</student>
+		<student surname="Kazakov">
+			<number>37592476</number>
+			<course>2</course>
+			<group>4</group>
+		</student>
+		<student surname="Solovey">
+			<number>24965736</number>
+			<course>2</course>
+			<group>4</group>
+		</student>
+		<student surname="Drozdovsky">
+			<number>29475863</number>
+			<course>1</course>
+			<group>4</group>
+		</student>
+	</students>
+</root>

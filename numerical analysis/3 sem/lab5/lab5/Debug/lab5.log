@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\vladislav\Desktop\programs\C++\vma\lab5\lab5\main.cpp(14,17): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\vladislav\Desktop\programs\C++\vma\lab5\lab5\main.cpp(187,19): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladislav\Desktop\programs\C++\vma\lab5\lab5\main.cpp(201,12): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+  lab5.vcxproj -> C:\Users\vladislav\Desktop\programs\C++\vma\lab5\Debug\lab5.exe

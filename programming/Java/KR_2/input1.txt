@@ -1,0 +1,7 @@
+spruce 500 coniferous 1000
+pine 300 coniferous 1000
+birch 400 foliar 500
+alder 150 foliar 100
+alder 400 foliar 200
+larch 200 foliar 250
+birch 150 foliar 350

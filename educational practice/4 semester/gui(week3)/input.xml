@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<countries>
+    <country>
+        <name>Argentina</name>
+        <capital>Buenos Aires</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_argentina.png</path>
+        <description>not the best option</description>
+        <price>200</price>
+    </country>
+    <country>
+        <name>Belgium</name>
+        <capital>Brussels</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_belgium.png</path>
+        <description>good one</description>
+        <price>500</price>
+    </country>
+    <country>
+        <name>Brazil</name>
+        <capital>Brasilia</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_brazil.png</path>
+        <description>don't recommend</description>
+        <price>250</price>
+    </country>
+    <country>
+        <name>Canada</name>
+        <capital>Ottawa</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_canada.png</path>
+        <description>very cool</description>
+        <price>900</price>
+    </country>
+    <country>
+        <name>Denmark</name>
+        <capital>Copenhagen</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_denmark.png</path>
+        <description>pretty nice</description>
+        <price>500</price>
+    </country>
+    <country>
+        <name>Estonia</name>
+        <capital>Tallinn</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_estonia.png</path>
+        <description>well, it's not far</description>
+        <price>300</price>
+    </country>
+    <country>
+        <name>Finland</name>
+        <capital>Helsinki</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_finland.png</path>
+        <description>very beautiful country</description>
+        <price>500</price>
+    </country>
+    <country>
+        <name>Germany</name>
+        <capital>Berlin</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_germany.png</path>
+        <description>The Great Patriotic War ended here</description>
+        <price>750</price>
+    </country>
+    <country>
+        <name>Iceland</name>
+        <capital>Reykjavik</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_iceland.png</path>
+        <description>ice one</description>
+        <price>400</price>
+    </country>
+    <country>
+        <name>Russia</name>
+        <capital>Moscow</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_russia.png</path>
+        <description>hmm 50/50</description>
+        <price>250</price>
+    </country>
+    <country>
+        <name>USA</name>
+        <capital>Washington DC</capital>
+        <path>E:\university\educational practice\4 semester\gui(week3)\plain\flag_usa.png</path>
+        <description>a bit expensive</description>
+        <price>1000</price>
+    </country>
+</countries>
