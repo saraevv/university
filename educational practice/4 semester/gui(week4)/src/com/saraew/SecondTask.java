@@ -43,7 +43,7 @@ public class SecondTask extends JPanel {
         if (image != null) {
             int x0 = SecondTask.this.getWidth() / 2;
             int y0 = SecondTask.this.getHeight() / 2;
-            radius = min(SecondTask.this.getWidth(), SecondTask.this.getHeight()) / 3;
+            radius = min(SecondTask.this.getWidth(), SecondTask.this.getHeight()) / 2;
             g2.setColor(Color.WHITE);
             g2.fillRect(0, 0, 1920, 1080);
             g2.setColor(Color.BLACK);
@@ -59,10 +59,6 @@ public class SecondTask extends JPanel {
     }
 
     public void changeDirection() {
-        if (isClockwise) {
-            isClockwise = false;
-        } else {
-            isClockwise = true;
-        }
+        isClockwise = !isClockwise;
     }
 }

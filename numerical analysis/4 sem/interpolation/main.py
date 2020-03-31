@@ -23,6 +23,7 @@ R = 2
 dots = np.linspace(L, R, 1000)
 count_of_dots = [10 * i for i in range(1, 11)]
 type_of_nodes = "equidistant"
+faults = []
 for l in range(2):
     for i in range(len(count_of_dots)):
         N = count_of_dots[i]
@@ -55,4 +56,7 @@ for l in range(2):
         plot.plot(dots, function_dots, label="Function")
         plot.legend()
         plot.show()
+        faults.append(max_fault)
     type_of_nodes = "chebyshev's"
+
+print(faults)

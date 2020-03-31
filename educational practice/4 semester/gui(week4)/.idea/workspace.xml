@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050ceeb8-d849-44f4-a7a3-fdc6e0f38a43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../numerical analysis/4 sem/interpolation/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/SecondTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui(week4)/com/saraew/SecondTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/saraew/SecondTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saraew/SecondTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../numerical analysis/4 sem/interpolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../numerical analysis/4 sem/interpolation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../numerical analysis/4 sem/interpolation/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../numerical analysis/4 sem/interpolation/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../numerical analysis/4 sem/newton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../numerical analysis/4 sem/newton/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +102,8 @@
       <workItem from="1584981906969" duration="420000" />
       <workItem from="1585057049952" duration="9886000" />
       <workItem from="1585499198290" duration="117000" />
+      <workItem from="1585570673060" duration="816000" />
+      <workItem from="1585650689526" duration="110000" />
     </task>
     <servers />
   </component>
@@ -117,22 +123,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="473" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585057480787" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1585070068216">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585571626979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585070068216" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1585070068216">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585571626979" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585571626979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585070068216" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1585070068215">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585571626979" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585571626979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585070068215" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1585070068216">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585571626979" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585571626979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585070068216" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585571626979" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585070068216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -157,6 +163,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1585057406163" />
+    <state x="209" y="34" key="new project wizard" timestamp="1585650797380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585650797380" />
     <state x="511" y="32" key="refactoring.ChangeSignatureDialog" timestamp="1585060994324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
