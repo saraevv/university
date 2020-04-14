@@ -128,7 +128,8 @@ public class Controller {
     }
 
     private void swapCellsData() {
-        int firstIndex = firstPair.getKey() * ROW_COUNT + firstPair.getValue(), secondIndex = secondPair.getKey() * ROW_COUNT + secondPair.getValue();
+        int firstIndex = firstPair.getKey() * ROW_COUNT + firstPair.getValue(),
+                secondIndex = secondPair.getKey() * ROW_COUNT + secondPair.getValue();
         Pair<BufferedImage, Integer> firstElem = images.get(firstIndex);
         Pair<BufferedImage, Integer> secondElem = images.get(secondIndex);
         images.set(firstIndex, secondElem);
@@ -150,10 +151,10 @@ public class Controller {
             }
         }
         if (flag) {
-            status.setText("Correct image");
+            status.setText("Корректное изображение");
             status.setTextFill(Color.GREEN);
         } else {
-            status.setText("Incorrect image");
+            status.setText("Некорректное изображение");
             status.setTextFill(Color.RED);
         }
     }

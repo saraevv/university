@@ -48,7 +48,8 @@ public class StringChecker {
 //        }
         Matcher matcher = datePattern.matcher(data);
         while (matcher.find()) {
-            parsedData.add(data.substring(matcher.start(), matcher.end()));
+            //parsedData.add(data.substring(matcher.start(), matcher.end()));
+            parsedData.add(matcher.group());
         }
         return parsedData;
     }
