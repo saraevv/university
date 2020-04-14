@@ -26,13 +26,20 @@ public class SecondTask extends Tab {
         data = FXCollections.observableArrayList();
         ListView<String> list = new ListView<>(data);
 
-        Button button = new Button("Parse");
-        button.setOnAction(event -> {
-            data.clear();
-            data.addAll(StringChecker.parse(textArea.getText()));
+//        Button button = new Button("Parse");
+//        button.setOnAction(event -> {
+//            data.clear();
+//            data.addAll(StringChecker.parse(textArea.getText()));
+//        });
+
+        textArea.textProperty().addListener((ov, oldV, newV) -> {
+            if (!newV.trim().isEmpty()) {
+                data.clear();
+                data.addAll(StringChecker.parse(textArea.getText()));
+            }
         });
 
-        layout.getChildren().addAll(textArea, list, button);
+        layout.getChildren().addAll(textArea, list);
         this.setContent(layout);
     }
 }

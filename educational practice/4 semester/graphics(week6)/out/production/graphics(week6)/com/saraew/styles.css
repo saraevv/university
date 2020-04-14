@@ -1,0 +1,9 @@
+.image-grid {
+     -fx-background-color: white ;
+     -fx-padding: 1 ;
+ }
+.image-grid-cell {
+    -fx-border-color: black;
+    -fx-border-width: 1;
+}
+

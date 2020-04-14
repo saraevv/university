@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="Файл">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#openImage" text="Выбрать изображение" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <TabPane prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+        <tabs>
+          <Tab text="First Task">
+               <content>
+                  <BorderPane prefHeight="200.0" prefWidth="200.0">
+                     <left>
+                        <VBox alignment="TOP_CENTER" prefHeight="729.0" prefWidth="350.0" spacing="100.0" style="-fx-background-color: #F0FFFF;" BorderPane.alignment="TOP_CENTER">
+                           <children>
+                              <Label text="Исходное изображение">
+                                 <font>
+                                    <Font name="Times New Roman Bold" size="20.0" />
+                                 </font></Label>
+                              <ImageView fx:id="correctImage" fitHeight="180.0" fitWidth="320.0" pickOnBounds="true" preserveRatio="true" />
+                           </children>
+                           <padding>
+                              <Insets top="10.0" />
+                           </padding>
+                        </VBox>
+                     </left>
+                     <right>
+                        <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="650.0" spacing="50.0" style="-fx-background-color: #F0FFFF;" BorderPane.alignment="TOP_CENTER">
+                           <children>
+                              <Label text="Измененное изображение">
+                                 <font>
+                                    <Font name="Times New Roman Bold" size="20.0" />
+                                 </font></Label>
+                              <Label fx:id="status" text="Корректность">
+                                 <font>
+                                    <Font name="Times New Roman Bold" size="20.0" />
+                                 </font></Label>
+                              <GridPane fx:id="pane" gridLinesVisible="true" maxWidth="640.0" prefHeight="360.0" prefWidth="640.0">
+                                 <children>
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="2" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="3" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                                    <ImageView fitHeight="90.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                                 </children>
+                                 <columnConstraints>
+                                    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                 </columnConstraints>
+                                 <rowConstraints>
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                 </rowConstraints>
+                              </GridPane>
+                           </children>
+                           <padding>
+                              <Insets top="10.0" />
+                           </padding>
+                        </VBox>
+                     </right>
+                  </BorderPane>
+               </content>
+          </Tab>
+          <Tab text="Second Task">
+               <content>
+                  <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" spacing="50.0" style="-fx-background-color: #F0FFFF;">
+                     <children>
+                        <Canvas fx:id="canvas" height="200.0" width="600.0" />
+                        <TextField fx:id="inputField" maxWidth="500.0" />
+                        <Button fx:id="changePosition" onAction="#changePosition" mnemonicParsing="false" text="Изменить направление" />
+                     </children>
+                     <padding>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </padding>
+                  </VBox>
+               </content></Tab>
+        </tabs>
+      </TabPane>
+   </center>
+</BorderPane>

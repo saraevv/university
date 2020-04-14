@@ -1,14 +1,17 @@
 package com.saraew;
 
 import java.util.ArrayList;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class StringChecker {
     private static final Pattern naturalNumberPattern = Pattern.compile("[1-9]\\d*");
     private static final Pattern integerPattern = Pattern.compile("(-?[1-9]\\d*)|0");
-    private static final Pattern floatPattern = Pattern.compile("(-?[1-9]\\d*\\.\\d*[1-9])|(-?0\\.\\d*[1-9])|(-?\\d\\.\\d*[1-9]e-?[1-9]\\d*)");
+    //private static final Pattern floatPattern = Pattern.compile("(-?[1-9]\\d*\\.\\d*[1-9])|(-?0\\.\\d*[1-9])|(-?\\d\\.\\d*[1-9]e-?[1-9]\\d*)");
+    private static final Pattern floatPattern = Pattern.compile("(-?[1-9]\\d*\\.\\d*)|(-?[1-9]\\d*\\.\\d*e-?\\d+)|" +
+            "(-?0?\\.\\d*)|(-?0?\\.\\d*e-?\\d+)|(-?[1-9]d*e-?\\d+)");
     private static final Pattern datePattern = Pattern.compile(
-            "((((0?[1-9])|([1-2]\\d))\\.(2|02))|(((0?[1-9])|([1-2]\\d)|30)\\.((1|01)|(3|03)|(5|05)|(7|07)|(8|08)|10|12))|" +
+            "((((0?[1-9])|([1-2]\\d))\\.(2|02))|(((0?[1-9])|([1-2]\\d)|30)\\.((4|04)|(6|06)|(5|05)|(9|09)|11))|" +
                     "(((0?[1-9])|([1-2]\\d)|30|31)\\.((1|01)|(3|03)|(5|05)|(7|07)|(8|08)|10|12)))\\.[1-9]\\d*"
     );
     private static final Pattern timePattern = Pattern.compile("(((0?[1-9])|(1[0-2])):((0?[1-9])|([1-5]\\d)) (am|pm))|" +
@@ -38,10 +41,14 @@ public class StringChecker {
     public static ArrayList<String> parse(String data) {
         ArrayList<String> parsedData = new ArrayList<>();
         String[] strings = data.split("[ \n]");
-        for (String string : strings) {
-            if (datePattern.matcher(string).matches()) {
-                parsedData.add(string);
-            }
+//        for (String string : strings) {
+//            if (datePattern.matcher(string).matches()) {
+//                parsedData.add(string);
+//            }
+//        }
+        Matcher matcher = datePattern.matcher(data);
+        while (matcher.find()) {
+            parsedData.add(data.substring(matcher.start(), matcher.end()));
         }
         return parsedData;
     }
