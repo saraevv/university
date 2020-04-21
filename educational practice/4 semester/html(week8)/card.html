@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Открытка</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		
+		<script type="text/javascript"
+			src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+		</script>
+
+		<script type="text/javascript" src="js/jQueryRotateCompressed.2.2.js">
+		</script>
+
+		<script type="text/javascript">
+			$(document).ready(function(){
+			 jQuery(".rotate1").rotate(45);
+
+			 jQuery("#rotate2").rotate({ bind:{
+				mouseover:function(){ $(this).rotate({animateTo: 90}) },
+				mouseout:function(){ $(this).rotate({animateTo: 0}) }
+			 }});
+
+			 var angle = 0;
+			 setInterval(function(){
+				angle += 3;
+				jQuery("#rotate3").rotate(angle);
+			 }, 90);
+			});
+		</script>	
+
+	</head>
+	<body id="b2">
+
+	<header>
+		<p id="title">Открытка Сараева Владислава Максимовича<p>
+	</header>
+
+	<div id="navigation">
+		<a href="index.html">Визитка</a>
+		</br>
+		<a href="timetable.html">Расписание</a>
+	</div>
+	
+	<div id="card">
+		<img width="400px" src="images/card.jpg" alt="" id="rotate3"/>
+	</div>
+	
+	<audio id="player" autoplay loop>
+		<source src="music/card.mp3" type="audio/mp3">
+	</audio>
+
+	</body>
+</html>

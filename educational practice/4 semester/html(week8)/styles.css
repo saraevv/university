@@ -1,0 +1,65 @@
+#b1 {
+	 background-image: url(images/cat1.gif);
+	}
+
+#title {
+	 font-family: Marker Felt, fantasy;
+	 font-size: 40px;
+	 font-weight: bold
+	}
+
+#navigation {
+     float: left;
+     line-height: 120px;
+     font-size: 20px;
+     margin-top: 60px;
+     width: 23%;
+     margin-right: 10px;
+     text-align: center; 
+    }
+	
+#main {
+     float: left;
+     line-height: 30px;
+     font-size: 20px;
+     margin-top: 60px;
+     width: 50%;
+     margin-right: 10px;
+     font-family: Impact, fantasy;
+    }
+
+#photo {
+     float: left;
+     line-height: 120px;
+     font-size: 40px;
+     width: 25%;
+     text-align: center; 
+    }
+
+#b2 {
+	 background-color: pink;
+}
+
+#card {
+     float: left;
+     margin-top: 60px;
+     width: 50%;
+     text-align: center; 
+    }
+
+#b3 {
+	 background-color: #8A2BE2;
+}
+
+#table {
+	 float: left;
+     line-height: 30px;
+     font-size: 20px;
+     margin-top: 60px;
+     width: 70%;
+     margin-right: 10px;
+     font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+
+
