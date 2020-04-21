@@ -29,8 +29,8 @@ public class Main extends Application {
         stage.setScene(scene);
         stage.show();
 
-        scene.setOnKeyPressed(keyEvent -> {
-            observableList.setCurrent(keyEvent.getCode().getChar());
+        scene.setOnKeyTyped(keyEvent -> {
+            observableList.setCurrent(keyEvent.getCharacter());
         });
     }
 
