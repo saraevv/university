@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/university/algorithms/graphs(50)/main.cpp
+fstream
+-
+vector
+-
+tuple
+-
+set
+-
+algorithm
+-
+
