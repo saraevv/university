@@ -1,0 +1,131 @@
+a {
+	text-decoration: none;
+}
+
+#b1 {
+	background: url(../images/background.jpg);
+	background-size: 100%;
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;		
+}
+
+#b2 {
+	background: url(../images/background1.jpg);
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+	color: #008B8B;
+}
+
+#b3 {
+	background: url(../images/background3.jpg);
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+	color: #FFFACD;
+}
+
+#b4 {
+	background: url(../images/background2.jpg);
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+	color: #FFEFD5;
+}
+
+#header {
+	position: fixed;
+	left: 0; top: 0;
+	color: white;
+	width: 100%;
+}
+
+#header div {
+	padding: 10px;
+}
+
+#footer {
+	position: fixed;
+	left: 0; bottom: 0;
+	color: white;
+	width: 100%;
+}
+#footer div {
+	padding: 10px;
+}
+
+.main {
+	margin-left: 200px;
+	font-size: 110px;
+	font-family: Impact, sans-serif;
+	color: #4682B4;
+}
+
+.links {
+	margin: 50px;	
+	font-size: 60px;
+	font-family: Trebuchet MS, sans-serif;
+	width: 600px;
+}
+
+.title {
+	margin-top: 5%;
+	font-size: 75px;
+	font-family: Impact, sans-serif;
+	height: 10%;
+
+}
+
+.text {
+	margin-top: 5%;
+	height: 80%;
+	font-size: 25px;
+	font-family: Century Gothic, sans-serif;
+	margin-left: 5%;
+	margin-right: 5%
+
+}
+
+#link {
+	color: #4682B4;
+}
+
+.human {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 50%;
+	float: left;
+}
+
+.orc {
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 50%;
+	height: 50%;
+	float: right;
+}
+
+.undead {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 50%;
+	height: 50%;
+	float: left;
+}
+
+.elf {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 50%;
+	height: 50%;
+	float: right;
+}

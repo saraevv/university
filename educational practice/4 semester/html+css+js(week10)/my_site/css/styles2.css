@@ -1,0 +1,68 @@
+#b1 {
+	background: url(../images/human.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	color: #F8F8FF;
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+}
+
+#b2 {
+	background: url(../images/orc.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	color: #F8F8FF;
+}
+
+#b3 {
+	background: url(../images/undead.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	color: #F8F8FF;
+}
+
+#b4 {
+	background: url(../images/elf.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	color: #F8F8FF;
+}
+
+.title {
+	margin-top: 5%;
+	font-size: 75px;
+	font-family: Impact, sans-serif;
+	height: 10%;
+
+}
+
+.text {
+	margin-top: 5%;
+	height: 80%;
+	font-size: 25px;
+	font-family: Century Gothic, sans-serif;
+	margin-left: 5%;
+	margin-right: 5%
+
+}
+
+#header {
+	position: fixed;
+	left: 0; top: 0;
+	color: white;
+	width: 100%;
+}
+
+#header div {
+	padding: 10px;
+}

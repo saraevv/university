@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb2257ee-fe6c-4b9e-8c82-cb6e9aedcdb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/MainFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/SecondTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/out/production/gui(week4)/com/saraew/SecondTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/src/com/saraew/SecondTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../educational practice/4 semester/gui(week4)/src/com/saraew/SecondTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3 sem/lab3/.vs/lab3/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../3 sem/lab3/.vs/lab3/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3 sem/lab3/.vs/lab3/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../3 sem/lab3/.vs/lab3/v16/Browse.VC.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newton/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newton" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../splines" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
@@ -86,6 +81,9 @@
       <workItem from="1585494400876" duration="9114000" />
       <workItem from="1585553473214" duration="101000" />
       <workItem from="1585595571531" duration="3184000" />
+      <workItem from="1588435946876" duration="3290000" />
+      <workItem from="1588518405545" duration="3152000" />
+      <workItem from="1589144973000" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="lab done">
       <created>1585503625422</created>
@@ -122,26 +120,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585503624718" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585553548403">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588518416473">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585553548403" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1585600774839">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588518416473" />
+    <state width="1493" height="527" key="GridCell.Tab.0.bottom" timestamp="1589145120657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585600774839" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1585600774838">
+    <state width="1493" height="527" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589145120657" />
+    <state width="1493" height="527" key="GridCell.Tab.0.center" timestamp="1589145120657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585600774838" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1585600774838">
+    <state width="1493" height="527" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589145120657" />
+    <state width="1493" height="527" key="GridCell.Tab.0.left" timestamp="1589145120657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585600774838" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1585600774838">
+    <state width="1493" height="527" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589145120657" />
+    <state width="1493" height="527" key="GridCell.Tab.0.right" timestamp="1589145120657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585600774838" />
+    <state width="1493" height="527" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589145120657" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585503958215">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -158,10 +156,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585503958215" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1585499320992">
+    <state x="277" y="55" key="SettingsEditor" timestamp="1588435970308">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585499320992" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588435970308" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585503903496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -176,13 +174,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>33</line>
+          <line>35</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/interpolation$main.coverage" NAME="main Coverage Results" MODIFIED="1585600009877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/interpolation$main.coverage" NAME="main Coverage Results" MODIFIED="1589144974273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
