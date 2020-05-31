@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/university/algorithms/brute(33)/main.cpp
+fstream
+-
+vector
+-
+algorithm
+-
+cassert
+-
+queue
+-
+tuple
+-
+iostream
+-
+ctime
+-
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student course="2" group="3">
+        <name>Saraev Vladislav</name>
+        <isAdmittedToExams>true</isAdmittedToExams>
+    </student>
+    <student course="2" group="3">
+        <name>Meleh Alexei</name>
+        <isAdmittedToExams>true</isAdmittedToExams>
+    </student>
+    <student course="2" group="3">
+        <name>Titov Sergey</name>
+        <isAdmittedToExams>true</isAdmittedToExams>
+    </student>
+    <student course="2" group="4">
+        <name>Kazakov Alexander</name>
+        <isAdmittedToExams>false</isAdmittedToExams>
+    </student>
+    <student course="2" group="1">
+        <name>Shavel Valery</name>
+        <isAdmittedToExams>true</isAdmittedToExams>
+    </student>
+    <student course="2" group="1">
+        <name>Artsiushkevich Sviatoslav</name>
+        <isAdmittedToExams>true</isAdmittedToExams>
+    </student>
+</students>

@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xml(week12):jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xml_week12__jar</output-path>
+    <root id="archive" name="xml(week12).jar">
+      <element id="module-output" name="xml(week12)" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-14/lib/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
