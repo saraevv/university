@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/university/algorithms/graphs(60)/main.cpp" "E:/university/algorithms/graphs(60)/cmake-build-debug/CMakeFiles/graphs_60_.dir/main.cpp.obj"
+  "D:/university/algorithms/graphs(60)/main.cpp" "D:/university/algorithms/graphs(60)/cmake-build-debug/CMakeFiles/graphs_60_.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

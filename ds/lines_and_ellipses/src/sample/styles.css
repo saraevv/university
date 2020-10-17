@@ -1,0 +1,6 @@
+.vbox {
+    -fx-border-color: black;
+    -fx-border-insets: 2;
+    -fx-border-width: 3;
+    -fx-border-style: solid;
+}
