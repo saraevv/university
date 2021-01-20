@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  figures.cpp
+D:\university\programming\C++\2 semester\figures\figures\classes.h(139,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(140,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(141,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(142,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(143,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(145,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(154,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(155,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(255,17): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(256,17): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(307,77): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(308,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(309,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(310,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(311,43): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(312,42): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(320,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(321,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(416,77): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(417,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(418,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(419,23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(420,43): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(421,42): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(422,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(424,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(434,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\university\programming\C++\2 semester\figures\figures\classes.h(435,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  figures.vcxproj -> D:\university\programming\C++\2 semester\figures\x64\Debug\figures.exe

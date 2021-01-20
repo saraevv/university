@@ -1,0 +1,12 @@
+Proc count 4
+Eps 1e-6
+-------------------
+1D Decomposition:
+Time - 13.2169s
+Iterations - 20400
+-------------------
+2D Decomposition
+Block count - 2x2
+Time - 15.4158s
+Iterations - 20478
+-------------------
